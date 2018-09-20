@@ -1,0 +1,7 @@
+/* You can add global styles to this file, and also import other style files */
+.form-control::-webkit-input-placeholder { color: #ACB2C5; }  /* WebKit, Blink, Edge */
+.form-control:-moz-placeholder { color: #ACB2C5; }  /* Mozilla Firefox 4 to 18 */
+.form-control::-moz-placeholder { color: #ACB2C5; }  /* Mozilla Firefox 19+ */
+.form-control:-ms-input-placeholder { color: #ACB2C5; }  /* Internet Explorer 10-11 */
+.form-control::-ms-input-placeholder { color: #ACB2C5; }  /* Microsoft Edge */
+

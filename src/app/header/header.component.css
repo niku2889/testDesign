@@ -1,0 +1,52 @@
+
+:host /deep/ .dropdown-menu {
+    right: 0!important;
+    left:inherit!important;
+}
+
+:host /deep/ .navbar-nav {
+    padding-left: 200px;
+}
+
+:host /deep/ .navbar {
+    padding: 0rem 1rem!important;
+    font-size: 14px;
+}
+
+:host /deep/  .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: white!important;
+    border-bottom: 3px solid #4A90E2;
+}
+
+.nav-custom{
+    text-align: center;
+    margin: 0 10px;
+}
+
+.btn-round {
+    border-radius: 30px;
+}
+
+.btn-quote {
+    color: #fff!important;
+    background-color: #4A90E2;
+    border-color: rgba(0,0,0,.2);
+    font-size: 14px!important;
+}
+
+:host /deep/ .form-control {
+    font-size: 14px!important;
+    height: inherit!important;
+}
+
+:host /deep/ .fa, .fab, .fal, .far, .fas {
+    color: #526491;
+}
+
+:host /deep/ .dropdown-item {
+    font-size: 14px!important;
+}
+
+:host /deep/ .navbar-light .navbar-nav .nav-link {
+    color: rgba(213, 200, 200, 0.5)!important;
+}
