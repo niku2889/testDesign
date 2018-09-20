@@ -5,3 +5,10 @@
 .form-control:-ms-input-placeholder { color: #ACB2C5; }  /* Internet Explorer 10-11 */
 .form-control::-ms-input-placeholder { color: #ACB2C5; }  /* Microsoft Edge */
 
+.bd-example {
+    position: relative;
+    padding: 1rem;
+    margin: 1rem -15px 0;
+    border: solid #f8f9fa;
+    border-width: .2rem 0 0;
+}
